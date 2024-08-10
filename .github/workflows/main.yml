@@ -1,6 +1,7 @@
 name: generate snake animation
 
 # Controls when the action will run.
+
 on:
   schedule:
       # every 12 hours
