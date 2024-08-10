@@ -4,7 +4,7 @@ name: generate snake animation
 on:
   schedule:
       # every 12 hours
-    - cron: "5 * * * *"
+    - cron: "* */12 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
