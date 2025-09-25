@@ -31,3 +31,7 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="https://github.com/yuyunjae/yuyunjae/blob/output/ocean.gif" />
   </picture>
 </div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yuyunjae&theme=flat&no-frame=true&no-bg=false&margin-w=4)
