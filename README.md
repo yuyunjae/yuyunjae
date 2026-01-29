@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuyunjae&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+-->
