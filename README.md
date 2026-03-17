@@ -16,6 +16,23 @@ Here are some ideas to get you started:
 -->
 
 
+## 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&for-the-badge&logo=C%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&for-the-badge&logo=rust&logoColor=white)
+<br>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&for-the-badge&logo=FastAPI&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?&style=flat&for-the-badge&logo=Git&logoColor=white)
+
 
 
 
@@ -27,8 +44,9 @@ Here are some ideas to get you started:
   - GPA : All 4.28/4.5, Major 4.31/4.5 (Summa Cum Laude)
 - **Cadet** in [42Seoul](https://42seoul.kr) *2023.10.03. ~ 2025.09.12*
   
-![C](https://img.shields.io/badge/Chung--Ang%20Univ.-386FBA?style=flat-square&logo=c&logoColor=white)
-![C](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
+![K-Digital Traning Program, SNU](https://img.shields.io/badge/KDT,%20SNU-386FBA?style=flat-square&logo=Keras&logoColor=white)
+![Chung-Ang University](https://img.shields.io/badge/Chung--Ang%20Univ.-386FBA?style=flat-square&logo=c&logoColor=white)
+![42Seoul](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
 
 
 <br>
