@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-
 <br>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&for-the-badge&logo=FastAPI&logoColor=white)
