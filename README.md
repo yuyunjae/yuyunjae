@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/yuyunjae03/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuyunjae03" height="165" alt="Solved.ac Profile" />
   </a>
-  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyunjae&layout=compact&theme=dracula&cache=123" height="165" alt="Top Langs" />
+  <!-- &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyunjae&layout=compact&theme=dracula&cache=123" height="165" alt="Top Langs" /> -->
 </div>
 
 
