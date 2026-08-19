@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
-- **Data Science & AI Trainee** in [K-Digital Traning Program, Seoul National University](https://www.snukdt.com/introduce/introduce.php) *2025.12.22 ~ current*
+- **Data Science & AI Trainee** in [K-Digital Traning Program, Seoul National University](https://www.snukdt.com/introduce/introduce.php) *2025.12.22 ~ 2026.07.28*
 
 - **B.Eng.** in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2020.03.02. ~ 2026.02.09.*
   - GPA : All 4.28/4.5, Major 4.31/4.5 (Summa Cum Laude)
