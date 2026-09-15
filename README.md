@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
-<!-- - **M.S.** in Artificial Intelligence, Pohang University of Science and Technology (POSTECH) 2026.09. ~ Present -->
+- **M.S.** in [Artificial Intelligence, Pohang University of Science and Technology (POSTECH)](https://ai.postech.ac.kr/) 2026.09. ~ Present
 
-- **Data Science & AI Trainee** in [K-Digital Traning Program, Seoul National University](https://www.snukdt.com/introduce/introduce.php) *2025.12 ~ 2026.07*
+- **Data Science & AI Trainee** in [K-Digital Traning Program, Seoul National University](https://www.snukdt.com/abs/introduce/introduce.php) *2025.12 ~ 2026.07*
 
-- **B.Eng.** in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2020.03 ~ 2026.02*
+- **B.Eng.** in [Computer Science & Engineering, Chung-Ang University](https://cse.cau.ac.kr/main.php) *2020.03 ~ 2026.02*
   - GPA : All 4.28/4.5, Major 4.31/4.5 (Summa Cum Laude)
 - **Cadet** in [42Seoul](https://42seoul.kr) *2023.10 ~ 2025.09*
   
