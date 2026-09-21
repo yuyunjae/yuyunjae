@@ -45,11 +45,15 @@ Here are some ideas to get you started:
 - **B.Eng.** in [Computer Science & Engineering, Chung-Ang University](https://cse.cau.ac.kr/main.php) *2020.03 ~ 2026.02*
   - GPA : All 4.28/4.5, Major 4.31/4.5 (Summa Cum Laude)
 - **Cadet** in [42Seoul](https://42seoul.kr) *2023.10 ~ 2025.09*
-  
+<!--
+![Pohang University of Science and Technology (POSTECH)](https://img.shields.io/badge/POSTECH,-386FBA?style=flat-square&logo=Keras&logoColor=white)
+-->
+
+<!--
 ![K-Digital Traning Program, SNU](https://img.shields.io/badge/KDT,%20SNU-386FBA?style=flat-square&logo=Keras&logoColor=white)
 ![Chung-Ang University](https://img.shields.io/badge/Chung--Ang%20Univ.-386FBA?style=flat-square&logo=c&logoColor=white)
 ![42Seoul](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
-
+-->
 
 <br>
 
